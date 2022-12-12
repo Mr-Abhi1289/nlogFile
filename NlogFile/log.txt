@@ -1,0 +1,9 @@
+﻿2022-12-08 09:42:16.5214|INFO|NlogFile.Nlog|values are added
+2022-12-12 07:30:58.2985|DEBUG|NlogFile.Nlog|debug successfully
+2022-12-12 07:30:58.4956|DEBUG|NlogFile.Nlog|values are added10
+2022-12-12 07:32:30.9707|DEBUG|NlogFile.Nlog|debug successfully
+2022-12-12 07:32:30.9902|DEBUG|NlogFile.Nlog|values are added4 6 10
+2022-12-12 07:33:20.1781|DEBUG|NlogFile.Nlog|debug successfully
+2022-12-12 07:33:20.2083|DEBUG|NlogFile.Nlog|values are added 4 6 =10
+2022-12-12 07:33:54.6755|DEBUG|NlogFile.Nlog|debug successfully
+2022-12-12 07:33:54.7026|DEBUG|NlogFile.Nlog|values are added 4 +6 =10
